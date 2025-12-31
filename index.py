@@ -104,11 +104,12 @@ if img:
 
 
 
-
+    
 
 
 
 '''if img:
+http://localhost:8503/
     img = Image.open(img)
     # 3. AI Processing
     with st.spinner("Analyzing..."):
